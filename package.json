@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/CaliStyle/angular2-intercom#readme",
   "peerDependencies": {
-    "@angular/http": ">=4.3.0",
-    "@angular/common": ">=4.3.0",
-    "@angular/core": ">=4.3.0",
-    "@angular/router": ">=4.3.0"
+    "@angular/http": ">=4.0.0",
+    "@angular/common": ">=4.0.0",
+    "@angular/core": ">=4.0.0",
+    "@angular/router": ">=4.0.0"
   },
   "devDependencies": {
     "@angular/common": "^4.3.6",
