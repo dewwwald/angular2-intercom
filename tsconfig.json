@@ -20,7 +20,8 @@
       "@angular/*": [
         "../node_modules/@angular/*"
       ]
-    }
+    },
+    "types": []
   },
   "exclude": [
     "node_modules"
